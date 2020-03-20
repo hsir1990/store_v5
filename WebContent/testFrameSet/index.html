@@ -1,0 +1,17 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<!-- frameset是一个框架，frameset标签不能同时与body出现 -->
+<frameset rows="20%, 60%,*">
+    <frame src="top.html">
+    <frameset cols="30%,*">
+    	<frame src="left.html">
+    	<!-- name="main" 为了然left中的链接能直接跳转main中打开 -->
+    	<frame src="mian.html" name="main">
+    </frameset> 
+    <frame src="cpright.html">
+</frameset>
+</html>

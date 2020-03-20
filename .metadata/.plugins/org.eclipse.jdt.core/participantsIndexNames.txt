@@ -1,0 +1,15 @@
+INDEX VERSION 1.131
+F:\java\store_v5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1737319972.index
+\store_v5_ithei\src
+F:\java\store_v5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2663447734.index
+\store_v5_ithei\src
+F:\java\store_v5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\742851840.index
+\store_v5_ithei\src
+F:\java\store_v5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3334508749.index
+\store_v5_ithei\src
+F:\java\store_v5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2170960018.index
+\store_v5_ithei\src
+F:\java\store_v5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2375012335.index
+\store_v5_ithei\src
+F:\java\store_v5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1809245466.index
+\store_v5_ithei\src
